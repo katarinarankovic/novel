@@ -1,2 +1,11 @@
-# anomaline.github.io
-Anomaline: A Philosophical Romance
+# Anomaline
+
+Anomaline is a philosophical romance about a solitary protagonist navigating the vacated vestiges of a cliche literary world: a scene of Brontëan moors with their unceasing, weepy weather. We don’t know her name, and neither does she: she appears at the beginning of the novel with no recollection of a previous life and no notion of who she is, into a library, where the chambers, artefacts, and books therein must suffice for her upbringing and education in the absence of any company. Through unlocking whole histories in the patterns of a carpet, entire sagas in a ceramic mermaid and recalling memories that are not her own, the nondescript character must reckon with her artificial nature, which she has not at this stage yet recognised.
+
+Perhaps it is the psychological product of being fundamentally alone, perhaps it is some strange metaphysics, but the laws of nature in this place seem erratic and reckless: the rooms keep rearranging themselves, body parts disappear when not actively re-membered, and a supporting character delivers a message only to forget to leave the scene, remaining conspicuously frozen like a non-player video game character, for the rest of the novel.
+
+The discovery of the malleability of her body, and the loose way in which she can be described to be a person, will come as a nasty shock to her, somewhere in the woods at night. It will take a misbehaving shadow, an artificial intelligence, a dead dog, a fugitive, a wimpy hologram, and an apocalyptic flood to reconcile her somewhat with that fact. And unbeknownst to her, all this time, someone has been living in her basement. That will come as a nasty shock to her too.
+
+What initially seemed to be a case of amnesia becomes problematic as her existential predicament unfolds. I’ve tried sending her letters. I’ve tried inserting numerous deus ex machina’s. She rejects all divine intervention and insists on her own brand of the mundane. What is the life of a character, when left to run its unbidden course?
+
+Ghosts, robots and pseudo-persons; artificial, immaterial, almost existing, striving to make themselves real. As fabricated as this world may be, its boundaries are not so tightly sealed. We too, as author and reader, are implicated in the events therein, and must decide for ourselves how confident we can be about our own claim to personhood, and confront the fiction that pervades all reality.
